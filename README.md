@@ -1,5 +1,4 @@
 # Airline Bookings Project
-## Project Description: Predicting Airline Booking Completion
 ### Objective:
 The objective of this project is to develop classification models to predict airline booking completion based on various factors.
 
